@@ -1,0 +1,17 @@
+To run Lotto game you need:
+
+    !=== python version recomended: Python 3.7 or higher ===!
+
+1. Run CMD on Windows/ Terminal on Linux systems
+
+2. Type python(ver) in command line to run Python
+
+    e.g. python3 (in case of using linux to load Python scripts)
+
+3.1 ==== Linux ====
+    Type: python(ver) X:/path/where/file/exists/main.py
+
+3.2 ==== Windows ====
+    Type: X:/path/where/file/exists/main.py
+
+4 Enjoy !!
